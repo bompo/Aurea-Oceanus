@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/g3d
+END
+G3dLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/g3d/G3dLoader.java
+END
+G3dtLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/g3d/G3dtLoader.java
+END
+G3dConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/g3d/G3dConstants.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/g3d/chunks
+END
+ChunkWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/g3d/chunks/ChunkWriter.java
+END
+G3dExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/g3d/chunks/G3dExporter.java
+END
+ChunkReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/g3d/chunks/ChunkReader.java
+END
+CountingDataInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/g3d/chunks/CountingDataInputStream.java
+END

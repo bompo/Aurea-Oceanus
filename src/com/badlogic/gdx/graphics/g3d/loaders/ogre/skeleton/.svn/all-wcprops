@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton
+END
+Rotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Rotation.java
+END
+Animations.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Animations.java
+END
+Keyframe.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Keyframe.java
+END
+Axis.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Axis.java
+END
+Track.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Track.java
+END
+Position.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Position.java
+END
+Bones.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Bones.java
+END
+Animation.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Animation.java
+END
+Animationlinks.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Animationlinks.java
+END
+Bonehierarchy.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Bonehierarchy.java
+END
+Bone.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Bone.java
+END
+Skeleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Skeleton.java
+END
+Keyframes.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Keyframes.java
+END
+Scale.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Scale.java
+END
+Tracks.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Tracks.java
+END
+Boneparent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Boneparent.java
+END
+Animationlink.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Animationlink.java
+END
+Translate.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Translate.java
+END
+Rotate.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/Rotate.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ogre/skeleton/ObjectFactory.java
+END

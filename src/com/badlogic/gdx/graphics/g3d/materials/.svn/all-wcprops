@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/materials
+END
+MaterialAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/materials/MaterialAttribute.java
+END
+ColorAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/materials/ColorAttribute.java
+END
+TextureAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/materials/TextureAttribute.java
+END
+Material.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/materials/Material.java
+END

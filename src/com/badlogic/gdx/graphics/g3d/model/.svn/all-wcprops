@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model
+END
+Animation.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/Animation.java
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/Model.java
+END
+AnimatedModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/AnimatedModel.java
+END
+SubMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/SubMesh.java
+END

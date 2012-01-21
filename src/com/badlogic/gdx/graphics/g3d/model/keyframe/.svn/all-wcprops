@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/keyframe
+END
+Keyframe.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/keyframe/Keyframe.java
+END
+KeyframedAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/keyframe/KeyframedAnimation.java
+END
+KeyframedModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/keyframe/KeyframedModel.java
+END
+KeyframedSubMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/keyframe/KeyframedSubMesh.java
+END

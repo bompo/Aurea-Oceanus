@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2944/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders
+END
+KeyframedModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/KeyframedModelLoader.java
+END
+StillModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/StillModelLoader.java
+END
+ModelLoaderRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ModelLoaderRegistry.java
+END
+ModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/ModelLoader.java
+END
+SkeletonModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/SkeletonModelLoader.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/skeleton
+END
+SkeletonAnimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/skeleton/SkeletonAnimation.java
+END
+Skeleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/skeleton/Skeleton.java
+END
+SkeletonModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/skeleton/SkeletonModel.java
+END
+SkeletonKeyframe.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/skeleton/SkeletonKeyframe.java
+END
+SkeletonJoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/skeleton/SkeletonJoint.java
+END
+SkeletonSubMesh.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/2520/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/model/skeleton/SkeletonSubMesh.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/2542/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/collada
+END
+Source.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2542/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/collada/Source.java
+END
+Faces.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2542/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/collada/Faces.java
+END
+ColladaLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/2542/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/collada/ColladaLoader.java
+END
+Geometry.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/2542/trunk/extensions/model-loaders/model-loaders/src/com/badlogic/gdx/graphics/g3d/loaders/collada/Geometry.java
+END
